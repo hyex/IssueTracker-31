@@ -12,7 +12,7 @@
 
 ## Issue Tracker
 
-### http://115.85.181.174:3000/
+### http://49.50.167.222:3000/
 
 ## Teammate 👨‍👩‍👦‍👦
 
@@ -32,6 +32,26 @@
 git clone https://github.com/boostcamp-2020/IssueTracker-31.git
 cd IssueTracker-31
 ```
+
+## Demo
+
+### Home Page, 필터링 기능
+<p>
+  <img src="https://user-images.githubusercontent.com/48546343/102242131-143c8e80-3f3d-11eb-812e-e7a029d7afb7.png" width="400" height="250">
+    <img src="https://user-images.githubusercontent.com/48546343/102242249-333b2080-3f3d-11eb-9b26-0a15c9ef03f5.png" width="400" height="250">
+</p>
+
+### Label, Milestone Page
+<P>
+  <img src="https://user-images.githubusercontent.com/48546343/102242276-38986b00-3f3d-11eb-9b56-4c337bbe7bc0.png" width="400" height="250">
+  <img src="https://user-images.githubusercontent.com/48546343/102242297-3e8e4c00-3f3d-11eb-800c-768a7b735d17.png" width="400" height="250">
+</p>
+
+### New Issue Page, Issue Page
+<p>
+    <img src="https://user-images.githubusercontent.com/48546343/102242836-d8ee8f80-3f3d-11eb-9d28-cadf347467aa.png" width="400" height="300">
+  <img src="https://user-images.githubusercontent.com/48546343/102242348-4f3ec200-3f3d-11eb-97d2-1d30a48a06ff.png" width="400" height="300">
+</p>
 
 ### frontend
 
